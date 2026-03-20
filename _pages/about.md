@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍🎓 About Me
 I am currently a financial specialist in Huawei, Shenzhen.
 
+# 📖 Educations
+- *2023.08-2024.11*, Master of Economics, The University of Hong Kong, Business School (Hong Kong). 
+- *2019.09-2023.06*, BS in Accounting, Jinan University, School of Management (Guangzhou). 
 
 # 📝 Experience
 - *2024.07-2024.09*, Junior Accountant, C2 Capital Partners Advisor Limited (Causeway Bay, Hong Kong). 
@@ -26,7 +30,3 @@ I am currently a financial specialist in Huawei, Shenzhen.
 - *2022.11-2023.02*, Bond Issuance Intern, Haitong Securities Co., Ltd. (Shenzhen Bond Financing Department).
 - *2022.01-2022.02*, Audit Intern, Ernst & Young Hua Ming LLP (Shenzhen Branch).
 - *2021.01-2021.02*, Audit Intern (IPO project), Rongcheng CPA Firm.
-
-# 📖 Educations
-- *2023.08-2024.11*, Master of Economics, The University of Hong Kong, Business School (Hong Kong). 
-- *2019.09-2023.06*, BS in Accounting, Jinan University, School of Management (Guangzhou). 
